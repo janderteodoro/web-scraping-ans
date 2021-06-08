@@ -1,8 +1,8 @@
 # web-scraping-ans
-teste 1 estágio, web scraping
+### Teste 1 estágio, web scraping
 ## Siga os passos para testar 
 ### Baixe o Python 
-Vá para https://www.python.org/ e baixe a versão mais recente do interpretador da linguagem, pois o script foi desenvolvido na mesma
+#### Vá para https://www.python.org/ e baixe a versão mais recente do interpretador da linguagem, pois o script foi desenvolvido na mesma
 ---
 ### Crie um ambiente virtual na raiz do projeto 
 `py -m venv venv` 
