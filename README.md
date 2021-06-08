@@ -30,4 +30,4 @@ Este comando irá criar um ambiente virtual exclusivo para uso deste projeto
 #### Agora provavelmente apareceu um `(venv)`, isso significa que seu ambiente virtual está ativo.
 
 
-### O pdf será baixado na pasta do projeto
+### Obs: O pdf será baixado na pasta do projeto
