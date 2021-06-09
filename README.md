@@ -10,7 +10,7 @@
 Este comando irá criar um ambiente virtual exclusivo para uso deste projeto 
 ---
 ### Instale as bibliotecas necessárias 
-####As bibliotecas necessárias para que o programa execute sem problemas são:
+#### As bibliotecas necessárias para que o programa execute sem problemas são:
 - selenium
 - requests 
 
